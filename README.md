@@ -11,8 +11,8 @@ This React application displays a list of recent bank transactions, add a new tr
 # How to Use
 
 <ul>
-<li>Start the json server json-server --watch db.json --port 8001</li>
-<li>Start the server npm start</li>
+<li>Start the json server, json-server --watch db.json --port 8001</li>
+<li>Start the server, npm start</li>
 <li>The bank transanction details will be displayed on the DOM</li>
 <li>You can add a new transaction </li>
 
