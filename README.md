@@ -31,7 +31,7 @@ This React application displays a list of recent bank transactions, add a new tr
 <ul>
 <li>Clone this repository using
 
-  git clone https://github.com/maurineA/week3-code-challenge
+  git clone https://github.com/maurineA/code-challenge-phase2
 or by downloading a ZIP file of the code.</li>
 <li>The repository, if downloaded as a .zip file will need to be extracted to your preferred location.</li>
 <li>Navigate to the project folder on your bash terminal.</li>
