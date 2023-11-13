@@ -29,7 +29,9 @@ function SubmitForm({input, setInput}) {
 
 
   return (
+      //submit form
     <div>
+    
         <form onSubmit={handleSubmit}>
 
             <input
