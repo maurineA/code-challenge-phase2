@@ -16,7 +16,7 @@ const [label, setSearch]=useState('')
 //useEffect
 useEffect(
   ()=>{
-    fetch("http://localhost:8001/transactions")
+    fetch("https://bank-transactions-71rl.onrender.com")
     .then((res) => res.json())
     .then((data) => {
       setBank(data)
