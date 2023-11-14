@@ -16,7 +16,7 @@ const [label, setSearch]=useState('')
 //useEffect
 useEffect(
   ()=>{
-    fetch("https://bank-transactions-71rl.onrender.com")
+    fetch("https://my-json-server.typicode.com/maurineA/code-challenge-phase2/transactions")
     .then((res) => res.json())
     .then((data) => {
       setBank(data)

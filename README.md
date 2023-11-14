@@ -29,6 +29,7 @@ This React application displays a list of recent bank transactions, add a new tr
 # Installation Process
 
 <ul>
+<li>Run https://maurinea.github.io/code-challenge-phase2/  or<li>
 <li>Clone this repository using
 
   git clone https://github.com/maurineA/code-challenge-phase2
